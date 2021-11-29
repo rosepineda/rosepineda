@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rosepineda
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 🌱 I’m a newbie currently learning Python
 - 💞️ I’m looking to collaborate with Software Engineers
 - 📫 You can reach me at rosalynyappineda@gmail.com
 
